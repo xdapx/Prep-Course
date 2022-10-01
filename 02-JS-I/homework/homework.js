@@ -96,7 +96,6 @@ function mayorQueCincuenta(num) {
       return false;
     }
   }
-}
 
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
@@ -111,7 +110,7 @@ function esPar(num) {
   if (num % 2 == 0){
     return true;
   } else {
-    return false:
+    return false;
   }
 }
 
@@ -122,7 +121,7 @@ function esImpar(num) {
   if (num % 2 == 1){
     return true;
   } else {
-    return false:
+    return false;
   }
 }
 
